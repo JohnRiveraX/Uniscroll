@@ -1,0 +1,29 @@
+{
+    "info": {
+        "url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
+        "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
+        "location": "Castro Valley, CA",
+        "social": {
+            "twitter_handle": "uniscroll",
+            "telegram_handle": "https://t.me/uniscroll",
+            "facebook_handle": "https://facebook.com/Uniscroll/",
+            "Youtube_handle": "https://youtube.com/channel/UCjZZxlo7L8-Fci1HG2qn1Sg?reload=9&skip_registered_account_check=true",
+            "twitch_handle": "",
+            "discord_handle": "https://discord.gg/s2bvu3hPEP",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "Uniscroll Corporation",
+            "addr": "Redwood rd, 20885 Suite 106",
+            "city": "Castro Valley",
+            "country": "United States",
+            "company_id": "88-1938650",
+            "vat_id": "N/A"
+        },
+        "about": {
+            "me": "Uniscroll is a Web3 company providing decentralized solutions made for mass adoption.",
+            "server": "Stake pool on AWS",
+            "company": ""
+        }
+    }
+}
